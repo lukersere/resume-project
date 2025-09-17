@@ -1,6 +1,5 @@
 // Define Variables
-let myName = "Luke Jones";
-let myEmail = "Lukersere@gmail.com";
+let myName = "Luke Jones"
 let title = "Student";
 let experience = "Food Service, Retail, Graphic Design";
 let education = "Oral Roberts University";
